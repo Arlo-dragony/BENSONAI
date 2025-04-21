@@ -62,13 +62,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
-# 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐏𝐑𝐎𝐂𝐄𝐒𝐒🎭
 
-## 𝐀𝐃𝐃 𝐘𝐎𝐔𝐑 𝐂𝐑𝐄𝐃𝐒.𝐉𝐒𝐎𝐍 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐈𝐓𝐇𝐔𝐁 𝐅𝐎𝐑𝐊
-## 𝐂𝐑𝐄𝐀𝐓𝐄 𝐀𝐏𝐏 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
-## 𝐀𝐃𝐃 𝐁𝐔𝐈𝐋𝐃𝐏𝐀𝐂𝐊𝐒
-## 𝐋𝐎𝐂𝐀𝐓𝐄 𝐃𝐑𝐀𝐆𝐎𝐍-𝐀𝐈 𝐀𝐍𝐃 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
-## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐁𝐑𝐀𝐍𝐂𝐇
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
