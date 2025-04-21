@@ -1,10 +1,11 @@
+
 {
-  "name": "🎭𝐃𝐑𝐀𝐆𝐎𝐍-𝐀𝐈🦅",
-  "description": "𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐀𝐈 𝐁𝐎𝐓 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍🦄",
+  "name": "👾BENSONAI👾",
+  "description": "AI WHATSAPP BOT DEVELOPED BY BENSON-TECHNLOGY 💝",
   "keywords": [
     "bot",
     "whatsapp",
-    "dragon",
+    "raven",
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
@@ -14,20 +15,20 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Kingdragony/DRAGON-AI#readme",
-  "repository": "https://github.com/Kingdragony/DRAGON-AI.git",
-  "logo": "https://i.imgur.com/V1Q0BbQ.jpeg",
+  "website": "https://github.com/Arlo-dragony/BENSONAI#readme",
+  "repository": "https://github.com/Arlo-dragony/BENSONAI.git",
+  "logo": "https://i.imgur.com/xFmW8er.jpeg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of DRAGON-AI Ex: . , / , # , & etc. Put any symbol or leave it blank",
+      "description": "Prefix of BENSON-TECHNLOGY Ex: . , / , # , & etc. Put any symbol or leave it blank",
       "value": ".",
       "required": false
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254702713600,254746764468",
-      "value": "254702713600",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114660061,27849061633  ",
+      "value": "255 766 793 224",
       "required": true
     },
     "ANTIDELETE": {
@@ -105,7 +106,7 @@
 },
  "CODE": {
       "description": "Input you country code here without + eg 254, it Will be used to Eliminate foreigners from the group once prompted.",
-      "value": "254",
+      "value": "255",
       "required": true
 },
  "SESSION": {
@@ -125,17 +126,15 @@
 },
  "APP_NAME": {
       "description": "Input your app name that you put above, Must be in small letters.",
-     "value": "DRAGON-AI",
+     "value": "BENSON-TECH",
      "required": true
 },
  "STICKER_AUTHOR": {
       "description": "Input sticker data for author",
-      "value": "Arlodragon 🐯",
       "required": false
 },
  "STICKER_PACKNAME": {
       "description": "Input sticker data for packname",
-      "value": "Dragon-ai",
       "required": false
 },
  "GPT_INBOX": {
@@ -145,7 +144,6 @@
 },
  "MENU_TYPE": {
       "description": "Input either VIDEO, LINK or IMAGE. This will allow bot to display different dynamic menu types",
-      "value": "VIDEO",
       "required": false
  },
     "AUTOLIKE_STATUS": {
@@ -165,4 +163,5 @@
       "url": "https://github.com/heroku/heroku-buildpack-activestorage-preview"
     }
   ]
-    }
+}
+    
