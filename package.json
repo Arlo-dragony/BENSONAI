@@ -22,7 +22,7 @@
    "author": "Arlodragon", 
    "license": "MIT", 
    "dependencies": { 
-     "@whiskeysockets/baileys": "^6.7.16",
+     "@git+https://github.com/McrayNick/baileys.git": "^6.7.16",
      "@adiwajshing/keyed-db": "^0.2.4", 
      "@hapi/boom": "^10.0.0",
      "@google/generative-ai":"^0.1.3",
