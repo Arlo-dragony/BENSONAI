@@ -10,7 +10,7 @@ const {
   jidDecode,
   proto,
   getContentType,
-} = require("@whiskeysockets/baileys");
+} = require("@git+https://github.com/McrayNick/baileys.git");
 
 const pino = require("pino");
 const { Boom } = require("@hapi/boom");
